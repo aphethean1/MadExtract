@@ -13,17 +13,19 @@ section = etree.XPath('''//li[contains(@class, 'relative')]''')
 #categories = [x.text for x in category(data)]
 #print(categories)
 
+count = 0
 cards = []
 for section_element in section(data):
     # [etree.dump(x) for x in section_element.findall('''./h3[1]''')]
-    category = section_element.findall('''./h3[1]''')[0].text if section_element.findall('''./h3[1]''') else None
-    if not category:
+    category = section_element.find('''./h3[1]''').text if section_element.find('''./h3[1]''') is not None else None
+    if category is None:
         continue
-    card_elements = section_element.findall('''./ul//li''')
-    if card_elements:
+    card_elements = section_element.find('ul').findall('''./li''')
+    #print(category,":",len(card_elements))
+    if card_elements is not None:
         for element in card_elements:
-            company = element.findall('./div[1]/div[1]/div[1]/h2')[0].text if element.findall('./div[1]/div[1]/div[1]/h2') else None
-            country = element.findall('./div[1]/div[1]/div[1]/span')[0].text if element.findall('./div[1]/div[1]/div[1]/span') else None
+            company = element.find('./div[1]/div[2]/h2').text if element.find('./div[1]/div[2]/h2') is not None else None
+            country = element.find('./div[1]/div[2]/span').text if element.find('./div[1]/div[2]/span') is not None else None
             if company:
                 cards.append([category, company, country])
 

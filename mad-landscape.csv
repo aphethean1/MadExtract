@@ -1,0 +1,1415 @@
+Category,Company,Country
+Storage,Vast Data,United States
+Storage,IBM Storage,United States
+Storage,Azure Storage,United States
+Storage,Backblaze,United States
+Storage,HPE Nimble Storage,United States
+Storage,Alluxio,United States
+Storage,Minio,United States
+Storage,Panasas,United States
+Storage,Amazon S3,United States
+Storage,Cohesity,United States
+Storage,Wasabi,United States
+Storage,Weka,United States
+Storage,Pure Storage,United States
+Storage,Google Cloud Storage,United States
+Storage,Qumulo,United States
+Storage,Cloudflare,United States
+Storage,Clumio,United States
+MPP DBs,Exasol,Germany
+MPP DBs,IBM Data Warehouse Systems,United States
+MPP DBs,Actian,United States
+MPP DBs,Greenplum Database,
+MPP DBs,Teradata,United States
+MPP DBs,"Vertica, An OpenText Company",United States
+Data Lakes/Lakehouses,Databricks,United States
+Data Lakes/Lakehouses,OneHouse,United States
+Data Lakes/Lakehouses,Azure Data Lake Storage,United States
+Data Lakes/Lakehouses,IBM Data Lake,United States
+Data Lakes/Lakehouses,Qubole,United States
+Data Lakes/Lakehouses,Azure HD Insight,United States
+Data Lakes/Lakehouses,Dremio,United States
+Data Lakes/Lakehouses,Google Cloud Dataproc,United States
+Data Lakes/Lakehouses,Google BigLake,United States
+Data Lakes/Lakehouses,Cloudera,United States
+Data Lakes/Lakehouses,Amazon EMR,United States
+Data Lakes/Lakehouses,AWS Lake Formation,United States
+Data Lakes/Lakehouses,HPE Ezmeral Data Fabric,United States
+Data Warehouses,Amazon RedShift,United States
+Data Warehouses,Hydra,United States
+Data Warehouses,StarRocks,United States
+Data Warehouses,Firebolt,Israel
+Data Warehouses,VMWare Greenplum,United States
+Data Warehouses,Tabular,United States
+Data Warehouses,Oracle Exdata Cloud Service,
+Data Warehouses,Google BigQuery,United States
+Data Warehouses,Yellowbrick Data Warehouse,United States
+Data Warehouses,Azure Synapse Analytics,United States
+Data Warehouses,Kyligence,United States
+Data Warehouses,Ocient,United States
+Data Warehouses,IBM Db2 Warehouse,United States
+Data Warehouses,Snowflake,United States
+Streaming/In-Memory,Meroxa,United States
+Streaming/In-Memory,Tinybird,Spain
+Streaming/In-Memory,Gigaspaces,United States
+Streaming/In-Memory,Bytewax,United States
+Streaming/In-Memory,Upsolver,Israel
+Streaming/In-Memory,Ververica,Germany
+Streaming/In-Memory,Arcion,United States
+Streaming/In-Memory,GridGain,United States
+Streaming/In-Memory,Aiven,Finland
+Streaming/In-Memory,Estuary,United States
+Streaming/In-Memory,Rising Wave Labs,United States
+Streaming/In-Memory,Amazon Kinesis,United States
+Streaming/In-Memory,RedPanda,United States
+Streaming/In-Memory,Google Cloud Dataflow,United States
+Streaming/In-Memory,Striim,United States
+Streaming/In-Memory,Oracle Coherence,United States
+Streaming/In-Memory,Ably,United Kingdom
+Streaming/In-Memory,MotherDuck,United States
+Streaming/In-Memory,Confluent,United States
+Streaming/In-Memory,Hazelcast,United States
+Streaming/In-Memory,DeltaStream,United States
+Streaming/In-Memory,SAP HANA,Germany
+Streaming/In-Memory,StreamNative,United States
+Streaming/In-Memory,Voltron Data,United States
+Streaming/In-Memory,Databricks,United States
+Streaming/In-Memory,Quix,United Kingdom
+Streaming/In-Memory,Conduktor,United States
+Streaming/In-Memory,Decodable,United States
+RDBMs,Microsoft SQL Server,United States
+RDBMs,IBM DB2,United States
+RDBMs,Oracle,United States
+RDBMs,Microsoft Access,United States
+RDBMs,Amazon RDS,United States
+RDBMs,SAP ASE,Germany
+NoSQL Databases,VMware Tanzu GemFire,
+NoSQL Databases,MarkLogic,United States
+NoSQL Databases,Crate.io,United States
+NoSQL Databases,Datastax,United States
+NoSQL Databases,Couchbase,United States
+NoSQL Databases,SpeeDB,Israel
+NoSQL Databases,Amazon DynamoDB,United States
+NoSQL Databases,Oracle NoSQL,United States
+NoSQL Databases,ScyllaDB,United States
+NoSQL Databases,Google Cloud Bigtable,United States
+NoSQL Databases,Amazon DocumentDB,United States
+NoSQL Databases,Aerospike,United States
+NoSQL Databases,MongoDB,United States
+NoSQL Databases,Azure CosmosDB,United States
+NewSQL Databases,PlanetScale,United States
+NewSQL Databases,YugabyteDB,United States
+NewSQL Databases,Google Cloud AlloyDB,United States
+NewSQL Databases,Amazon Aurora,United States
+NewSQL Databases,Volt Active Data,United States
+NewSQL Databases,influxData,United States
+NewSQL Databases,Cockroach Labs,United States
+NewSQL Databases,MariaDB Xpand,United States
+NewSQL Databases,Google Cloud Spanner,United States
+NewSQL Databases,Timescale,United States
+NewSQL Databases,PingCAP,China
+NewSQL Databases,Dassault Systemes DuoDB,France
+Real Time Databases,Imply,United States
+Real Time Databases,Clickhouse,United States
+Real Time Databases,Startree,United States
+Real Time Databases,Macrometa,United States
+Real Time Databases,FeatureBase,United States
+Real Time Databases,SingleStore,United States
+Real Time Databases,ReadySet,United States
+Real Time Databases,Materialize,United States
+Real Time Databases,Redis,United States
+Real Time Databases,KX,United Kingdom
+Real Time Databases,Rockset,United States
+Real Time Databases,Altinity,United Kingdom
+Graph DBs,TerminusDB,Ireland
+Graph DBs,Stardog,United States
+Graph DBs,neo4j,United States
+Graph DBs,TigerGraph,United States
+Graph DBs,Objectivity,United States
+Graph DBs,Memgraph,United Kingdom
+Graph DBs,IBM Graph,United States
+Graph DBs,ArangoDB,United States
+Graph DBs,Dgraph,United States
+Graph DBs,Oracle Graph,United States
+Graph DBs,Amazon Neptune,United States
+GPU Databases,Kinetica,United States
+GPU Databases,PG-Strom,United States
+GPU Databases,Heavy.ai,United States
+GPU Databases,Brytlyt,United Kingdom
+GPU Databases,Sqream,United States
+Vector Databases,Zilliz,United States
+Vector Databases,Twelve Labs,United States
+Vector Databases,qdrant,Germany
+Vector Databases,Pinecone,United States
+Vector Databases,Weaviate,Netherlands
+Database Abstraction,Hasura,United States
+Database Abstraction,Xata,United States
+Database Abstraction,Prisma,Germany
+Database Abstraction,Apollo,
+Database Abstraction,Supabase,Singapore
+Database Abstraction,AppWrite,Israel
+Database Abstraction,Convex,United States
+Database Abstraction,SurrealDB,United Kingdom
+Database Abstraction,Chiselstrike,Canada
+Database Abstraction,Fauna,United States
+ETL/ELT/Data Transformation,Cdata,United States
+ETL/ELT/Data Transformation,Dataddo,United States
+ETL/ELT/Data Transformation,Astera Centerprise,United States
+ETL/ELT/Data Transformation,Meltano,Mexico
+ETL/ELT/Data Transformation,Talend,United States
+ETL/ELT/Data Transformation,dbt Labs,United States
+ETL/ELT/Data Transformation,Portable,United States
+ETL/ELT/Data Transformation,Google Cloud Data Fusion,United States
+ETL/ELT/Data Transformation,Hitachi Vantara Pentaho,United States
+ETL/ELT/Data Transformation,Integrate.io,United States
+ETL/ELT/Data Transformation,Datorios,Israel
+ETL/ELT/Data Transformation,tamr,United States
+ETL/ELT/Data Transformation,Airbyte,United States
+ETL/ELT/Data Transformation,Rivery,United States
+ETL/ELT/Data Transformation,Azure Data Factory,United States
+ETL/ELT/Data Transformation,Hevo Data,United States
+ETL/ELT/Data Transformation,Stitch,United States
+ETL/ELT/Data Transformation,Kleene,United Kingdom
+ETL/ELT/Data Transformation,Matillion,United Kingdom
+ETL/ELT/Data Transformation,Alteryx,United States
+ETL/ELT/Data Transformation,Coalesce,United States
+ETL/ELT/Data Transformation,Fivetran,United States
+ETL/ELT/Data Transformation,AWS Glue,United States
+ETL/ELT/Data Transformation,Prophecy,United States
+Reverse ETL,Rudderstack,United States
+Reverse ETL,MessageGears,United States
+Reverse ETL,Polytomic,United States
+Reverse ETL,Hightouch,United States
+Reverse ETL,Census,United States
+Reverse ETL,Octolis,France
+Data Integration,import.io,United States
+Data Integration,StreamSets,United States
+Data Integration,Flatfile,United States
+Data Integration,Informatica,United States
+Data Integration,Boomi,United States
+Data Integration,Sequentum,United States
+Data Integration,NextData,United States
+Data Integration,Snowplow,United Kingdom
+Data Integration,Twilio Segment,United States
+Data Integration,Freshpaint,United States
+Data Integration,tray.io,United States
+Data Integration,SAP Data Services,Germany
+Data Integration,Crux Data,United States
+Data Integration,Tealium,United States
+Data Integration,Celigo,United States
+Data Integration,Bobsled,United States
+Data Integration,SnapLogic,United States
+Data Integration,InfoWorks,United States
+Data Integration,MuleSoft,United States
+Data Integration,Qlik,United States
+Data Integration,Denodo,United States
+Data Governance  Catalog,ALTR,United States
+Data Governance  Catalog,Alation,United States
+Data Governance  Catalog,Metaphor,United States
+Data Governance  Catalog,IBM,United States
+Data Governance  Catalog,Ataccama,Canada
+Data Governance  Catalog,Skyhigh Security,United States
+Data Governance  Catalog,ObservePoint,United States
+Data Governance  Catalog,Demyst,United States
+Data Governance  Catalog,Stratio,Spain
+Data Governance  Catalog,Collibra,Belgium
+Data Governance  Catalog,Securiti,United States
+Data Governance  Catalog,Immuta,United States
+Data Governance  Catalog,Atlan,United States
+Data Governance  Catalog,Okera,United States
+Data Governance  Catalog,Solidatus,United Kingdom
+Data Governance  Catalog,Acryl Data,United States
+Data Governance  Catalog,Informatica,United States
+Data Governance  Catalog,Secoda,Canada
+Data Governance  Catalog,Stemma,United States
+Data Governance  Catalog,Select Star,United States
+Data Governance  Catalog,Orion,United States
+Data Governance  Catalog,Raito,Belgium
+Data Governance  Catalog,Data.world,United States
+Data Governance  Catalog,Modern Data Company,United States
+Data Governance  Catalog,Hitachi Vantara,United States
+Data Governance  Catalog,Castor,France
+Data Governance  Catalog,SailPoint,United States
+Infrastructure - Orchestration,Akuity,United States
+Infrastructure - Orchestration,Google Cloud Workflows,United States
+Infrastructure - Orchestration,AWS Step Functions,United States
+Infrastructure - Orchestration,Astronomer,United States
+Infrastructure - Orchestration,Prefect,United States
+Infrastructure - Orchestration,Outerbounds,United States
+Infrastructure - Orchestration,Mage,United States
+Infrastructure - Orchestration,Union.ai,United States
+Infrastructure - Orchestration,Microsoft Azure Data Factory,United States
+Infrastructure - Orchestration,Elementl,United States
+Data Quality  Observability,Validio,Sweden
+Data Quality  Observability,Timeseer,Belgium
+Data Quality  Observability,Monte Carlo,United States
+Data Quality  Observability,Talend,United States
+Data Quality  Observability,Lightup,United States
+Data Quality  Observability,Datafold,United States
+Data Quality  Observability,Collibra,Belgium
+Data Quality  Observability,Great Expectations,United States
+Data Quality  Observability,Sifflet,France
+Data Quality  Observability,Manta,United States
+Data Quality  Observability,Bigeye,United States
+Data Quality  Observability,Unravel Data,United States
+Data Quality  Observability,Soda,Belgium
+Data Quality  Observability,Synq,United Kingdom
+Data Quality  Observability,Acceldata,United States
+Data Quality  Observability,Metaplane,United States
+Data Quality  Observability,Precisely,United States
+Data Quality  Observability,Anomalo,United States
+Data Quality  Observability,Databand,Israel
+Fully Managed,Keboola,Czech Republic
+Fully Managed,Adverity,Austria
+Fully Managed,Y42,Germany
+Fully Managed,5X,Singapore
+Fully Managed,Mozart Data,United States
+Fully Managed,Data Virtuality,Germany
+Fully Managed,Fruition Data,
+Fully Managed,Nexla,United States
+MGMT/Monitoring,Veeam,Switzerland
+MGMT/Monitoring,Wavefront,
+MGMT/Monitoring,Datadog,United States
+MGMT/Monitoring,VMWare Aria,United States
+MGMT/Monitoring,DataSet,United States
+MGMT/Monitoring,honeycomb.io,United States
+MGMT/Monitoring,Splunk,United States
+MGMT/Monitoring,Cisco AppDynamics,United States
+MGMT/Monitoring,New Relic,United States
+MGMT/Monitoring,Solarwinds,United States
+MGMT/Monitoring,Cast AI,United States
+MGMT/Monitoring,Rubrik,United States
+MGMT/Monitoring,Cribl,United States
+MGMT/Monitoring,Amazon Cloudwatch,United States
+MGMT/Monitoring,GrafanaLabs,United States
+MGMT/Monitoring,PagerDuty,United States
+MGMT/Monitoring,ScienceLogic,United States
+MGMT/Monitoring,Chronosphere,United States
+MGMT/Monitoring,Dynatrace,United States
+MGMT/Monitoring,Moogsoft,United States
+Privacy  Security,SkyFlow,United States
+Privacy  Security,Cape Privacy,United States
+Privacy  Security,Privacera,United States
+Privacy  Security,Privacy Dynamics,United States
+Privacy  Security,Ketch,United States
+Privacy  Security,Privitar,United Kingdom
+Privacy  Security,In Country,United States
+Privacy  Security,Cyral,United States
+Privacy  Security,TripleBlind,United States
+Privacy  Security,Duality Technologies,United States
+Privacy  Security,Very Good Security,United States
+Privacy  Security,Enveil,United States
+Privacy  Security,PrivateAI,Canada
+Privacy  Security,Transcend,United States
+Privacy  Security,Opaque Systems,United States
+Privacy  Security,OneTrust,United States
+Compute,Coiled,United States
+Compute,Equinix,United States
+Compute,Amazon EKS,United States
+Compute,D2IQ,United States
+Compute,AWS Lambda,United States
+Compute,Nvidia Bright Cluster,United States
+Compute,Microsoft Azure,United States
+Compute,Google Cloud Functions,United States
+Compute,Amazon ECS,United States
+Compute,Nuclio,Israel
+Compute,Microsoft Azure CycleCloud,
+Compute,Modal,United States
+Compute,HPE,United States
+Compute,Anyscale,United States
+Compute,Penguin Solutions,
+BI Platforms,Omni,United States
+BI Platforms,Oracle Analytics,United States
+BI Platforms,Metabase,United States
+BI Platforms,Amazon QuickSight,United States
+BI Platforms,Domo,United States
+BI Platforms,Sas Business Intelligence,United States
+BI Platforms,Grow,United States
+BI Platforms,Atscale,United States
+BI Platforms,Microstrategy,United States
+BI Platforms,Tibco Spotfire,United States
+BI Platforms,Qlik,United States
+BI Platforms,Salesforce Einstein Analytics,United States
+BI Platforms,ThoughtSpot,United States
+BI Platforms,Sisense,United States
+BI Platforms,Lightdash,United States
+BI Platforms,InforBirst,United States
+BI Platforms,Looker,United States
+BI Platforms,Popsql,United States
+BI Platforms,Kyvos,United States
+BI Platforms,GoodData,United States
+BI Platforms,SAP Business Intelligence Suite,Germany
+BI Platforms,IBM Cognos Analytics,United States
+Analytics - Visualization,Astrato,
+Analytics - Visualization,Microsoft Power BI,
+Analytics - Visualization,Rill,United States
+Analytics - Visualization,Google Data Studio,
+Analytics - Visualization,Plotly,Canada
+Analytics - Visualization,Toucan Toco,France
+Analytics - Visualization,Observable,United States
+Analytics - Visualization,SAP Lumira,Germany
+Analytics - Visualization,Streamlit,United States
+Analytics - Visualization,Grid,Iceland
+Analytics - Visualization,Tableau,United States
+Analytics - Visualization,Preset,United States
+Analytics - Visualization,Infogram,United States
+Analytics - Visualization,Datawrapper,Germany
+Analytics - Visualization,Cumul.io,Belgium
+Data Analyst Platforms,Datameer,United States
+Data Analyst Platforms,Seek AI,United States
+Data Analyst Platforms,Glean,United States
+Data Analyst Platforms,Incorta,United States
+Data Analyst Platforms,Microsoft,United States
+Data Analyst Platforms,Airtable,United States
+Data Analyst Platforms,Deephaven,United States
+Data Analyst Platforms,Cube,United States
+Data Analyst Platforms,iGenius,Italy
+Data Analyst Platforms,Ascend.io,United States
+Data Analyst Platforms,Pyramid Analytics,Netherlands
+Data Analyst Platforms,Tellius,United States
+Data Analyst Platforms,Zing Data,United States
+Data Analyst Platforms,Canvas,United States
+Data Analyst Platforms,Trace,
+Data Analyst Platforms,Mode,United States
+Data Analyst Platforms,Preql,United States
+Data Analyst Platforms,Anodot,Israel
+Data Analyst Platforms,Narrator,United States
+Data Analyst Platforms,Lido,United States
+Data Analyst Platforms,Sisu Data,United States
+Data Analyst Platforms,Equals,United States
+Data Analyst Platforms,Alteryx,United States
+Data Analyst Platforms,Weld,Denmark
+Data Analyst Platforms,Pecan,Israel
+Data Analyst Platforms,Workstream,United States
+Data Analyst Platforms,Guavus,United States
+Customer Data Platforms,ActionIQ,United States
+Customer Data Platforms,Adobe Real-Time CDP,
+Customer Data Platforms,Salesforce CDP,United States
+Customer Data Platforms,Treasure Data,United States
+Customer Data Platforms,mparticle,United States
+Customer Data Platforms,Optimove,Israel
+Customer Data Platforms,Simon Data,United States
+Customer Data Platforms,Lytics,United States
+Customer Data Platforms,Insider,Turkey
+Customer Data Platforms,Twilio Segment,United States
+Customer Data Platforms,Tealium,United States
+Customer Data Platforms,Flywheel Software,United States
+Customer Data Platforms,Blueconic,United States
+Customer Data Platforms,Rudderstack,United States
+Customer Data Platforms,Syncari,United States
+Customer Data Platforms,Amperity,United States
+Customer Data Platforms,Blueshift,United States
+Product Analytics,Google Analytics,United States
+Product Analytics,Fullstory,United States
+Product Analytics,Data.ai,United States
+Product Analytics,Glassbox,United Kingdom
+Product Analytics,Mixpanel,United States
+Product Analytics,Pendo,United States
+Product Analytics,Whatfix,India
+Product Analytics,Contentsquare,France
+Product Analytics,Heap,United States
+Product Analytics,Amplitude,United States
+Log Analytics,LogicMonitor,United States
+Log Analytics,Sumologic,United States
+Log Analytics,Coralogix,United States
+Log Analytics,Logz.io,Israel
+Log Analytics,Mezmo,United States
+Log Analytics,Cisco AppDynamics,United States
+Log Analytics,Datadog,United States
+Log Analytics,Observe,United States
+Log Analytics,Sematext,
+Log Analytics,Google Cloud Logging,United States
+Log Analytics,Azure Monitor,United States
+Log Analytics,LogRythm,United States
+Log Analytics,Kibana,Netherlands
+Log Analytics,Splunk,United States
+Log Analytics,Exabeam,United States
+Log Analytics,Solarwinds loggly,United States
+Crypto  Web 3 Analytics,TRM,United States
+Crypto  Web 3 Analytics,Nansen,Singapore
+Crypto  Web 3 Analytics,Merlin,
+Crypto  Web 3 Analytics,Luabase,United States
+Crypto  Web 3 Analytics,Allium,United States
+Crypto  Web 3 Analytics,Dune,Norway
+Crypto  Web 3 Analytics,nxyz,United States
+Crypto  Web 3 Analytics,Elliptic,United Kingdom
+Crypto  Web 3 Analytics,Chainalysis,United States
+Query Engine,Ahana,United States
+Query Engine,Amazon Athena,United States
+Query Engine,Starburst,United States
+Query Engine,Dremio,United States
+Enterprise Search,ChaosSearch,United States
+Enterprise Search,Seva,United States
+Enterprise Search,Onna,United States
+Enterprise Search,Microsoft Azure Cognitive Search,United States
+Enterprise Search,Glean,United States
+Enterprise Search,Algolia,United States
+Enterprise Search,AWS OpenSearch,United States
+Enterprise Search,Vectara,United States
+Enterprise Search,Coveo,Canada
+Enterprise Search,Quickwit,United States
+Enterprise Search,Lucidworks,United States
+Enterprise Search,Amazon CloudSearch,United States
+Enterprise Search,Elastic,Netherlands
+Enterprise Search,Sinequa,France
+Enterprise Search,Amazon Kendra,United States
+Enterprise Search,Oracle Endeca,United States
+Enterprise Search,Alphasense,United States
+Data Science Notebooks,Amazon SageMaker,United States
+Data Science Notebooks,SaturnCloud,United States
+Data Science Notebooks,Count,United Kingdom
+Data Science Notebooks,Binder,Canada
+Data Science Notebooks,Hex,United States
+Data Science Notebooks,noteable,United States
+Data Science Notebooks,Google Colab,
+Data Science Notebooks,Deepnote,United States
+Data Science Notebooks,Jupyter,
+Data Science Notebooks,Cocalc,
+Data Science Notebooks,Azure Notebooks,
+Data Science Notebooks,NextJournal,
+Data Science Notebooks,Curvenote,Canada
+Data Science Platforms,Altair,United States
+Data Science Platforms,anaconda,United States
+Data Science Platforms,IBM Watson Studio,United States
+Data Science Platforms,Mathworks,United States
+Data Science Platforms,Oracle Data Science Platform,United States
+Data Science Platforms,Sas,United States
+Data Science Platforms,Tibco,United States
+Data Science Platforms,Knime,Switzerland
+Data Science Platforms,Palantir Technologies,United States
+Data Science Platforms,RapidMiner,United States
+Enterprise ML Platforms,Continual,United States
+Enterprise ML Platforms,Amazon SageMaker,United States
+Enterprise ML Platforms,Graft,United States
+Enterprise ML Platforms,Snorkel,United States
+Enterprise ML Platforms,Google Cloud Vertex AI,United States
+Enterprise ML Platforms,DotData,United States
+Enterprise ML Platforms,Obviously.ai,United States
+Enterprise ML Platforms,Databricks,United States
+Enterprise ML Platforms,Modular,United States
+Enterprise ML Platforms,Wallaroo,United States
+Enterprise ML Platforms,Domino,United States
+Enterprise ML Platforms,Abacus.ai,United States
+Enterprise ML Platforms,Aible,United States
+Enterprise ML Platforms,Azure Machine Learning,United States
+Enterprise ML Platforms,Dataiku,United States
+Enterprise ML Platforms,DataRobot,United States
+Enterprise ML Platforms,CausaLens,United Kingdom
+Enterprise ML Platforms,H2O.ai,United States
+Data Generation  Labelling,MostlyAI,Austria
+Data Generation  Labelling,Appen,Australia
+Data Generation  Labelling,Scale,United States
+Data Generation  Labelling,Amazon MechanicalTurk,United States
+Data Generation  Labelling,Alegion,United States
+Data Generation  Labelling,Upwork,United States
+Data Generation  Labelling,Datagen,Israel
+Data Generation  Labelling,Hive,United States
+Data Generation  Labelling,super.ai,United States
+Data Generation  Labelling,CloudFactory,United Kingdom
+Data Generation  Labelling,M47 AI,
+Data Generation  Labelling,Kili,France
+Data Generation  Labelling,Sama,United States
+Data Generation  Labelling,V7,United Kingdom
+Data Generation  Labelling,Gretel,United States
+Data Generation  Labelling,SuperAnnotate,United States
+Data Generation  Labelling,Tonic AI,United States
+Data Generation  Labelling,Unity,United States
+Data Generation  Labelling,Superb AI,United States
+Data Generation  Labelling,Dataloop,Israel
+MLOps,MindsDB,United States
+MLOps,Predibase,United States
+MLOps,Fiddler AI,United States
+MLOps,Truera,United States
+MLOps,Seldon,United Kingdom
+MLOps,Arize AI,United States
+MLOps,Neptune.ai,United States
+MLOps,Finegrain,
+MLOps,OctoML,United States
+MLOps,Cortex,United States
+MLOps,NannyML,Belgium
+MLOps,Diveplane,United States
+MLOps,Gantry,United States
+MLOps,Verta,United States
+MLOps,Iterative,United States
+MLOps,Datatron,United States
+MLOps,Valohai,Finland
+MLOps,Hopsworks,Sweden
+MLOps,Preemo,United States
+MLOps,Giskard,France
+MLOps,Dust,France
+MLOps,Google Cloud Vertex AI,United States
+MLOps,Evidently AI,United States
+MLOps,Amazon SageMaker,United States
+MLOps,Modzy,United States
+MLOps,Baseten,United States
+MLOps,Robust Intelligence,United States
+MLOps,ZenML,Germany
+MLOps,Feast,
+MLOps,Galileo,United States
+MLOps,Aporia,Israel
+MLOps,AI Squared,United States
+MLOps,BentoML,United States
+MLOps,Comet,United States
+MLOps,Rasgo,United States
+MLOps,Weights  Biases,United States
+MLOps,Fal.ai,United States
+MLOps,Tecton,United States
+MLOps,cnvrg.io,Israel
+MLOps,WhyLabs,United States
+MLOps,Arthur,United States
+MLOps,Neural Magic,United States
+MLOps,Deci,Israel
+Computer Vision,Clearview.ai,United States
+Computer Vision,Google Cloud Vision API,United States
+Computer Vision,Matroid,United States
+Computer Vision,Amazon Rekognition,
+Computer Vision,Microsoft Azure,United States
+Computer Vision,CoreML,
+Computer Vision,Clarifai,United States
+Computer Vision,Prophesee,France
+Computer Vision,Chooch,United States
+Speech,Amazon Polly,United States
+Speech,SoundHound Inc,United States
+Speech,Gridspace,United States
+Speech,Amazon Transcribe,United States
+Speech,Siri,United States
+Speech,Amazon Alexa,
+Speech,Poly.ai,United Kingdom
+Speech,Verbit,United States
+Speech,OtterAI,United States
+Speech,Nuance,United States
+Speech,Cogito,United States
+Speech,Speechmatics,United Kingdom
+Speech,AssemblyAI,United States
+Speech,Microsoft Cortana,United States
+Speech,Avoma,United States
+Speech,Eleven Labs,United States
+Speech,Azure Cognitive Services,United States
+Speech,DeepGram,United States
+NLP,Cortical.io,Austria
+NLP,WolframAlpha,United States
+NLP,Hugging Face,United States
+NLP,Amazon Comprehend,United States
+NLP,Mobvoi,China
+NLP,Explosion,Germany
+NLP,Lilt,United States
+NLP,Amazon Translate,United States
+NLP,Primer,United States
+NLP,Smartling,United States
+NLP,Emotibot,China
+NLP,Cohere,Canada
+NLP,Amenity,United States
+NLP,Deepset,Germany
+NLP,Google Natural Language AI,United States
+NLP,Unbabel,United States
+NLP,Rasa,United States
+Horizontal AI/AGI,Institute for Ethical AI  Machine Learning,
+Horizontal AI/AGI,Anthropic,United States
+Horizontal AI/AGI,MIRI,
+Horizontal AI/AGI,Intrinsic,United States
+Horizontal AI/AGI,Adept,United States
+Horizontal AI/AGI,DFKI,Germany
+Horizontal AI/AGI,Google Research,United States
+Horizontal AI/AGI,MIT Csail,United States
+Horizontal AI/AGI,DeepMind,United Kingdom
+Horizontal AI/AGI,Hume AI,United States
+Horizontal AI/AGI,Stability.ai,United Kingdom
+Horizontal AI/AGI,Aleph Alpha,Germany
+Horizontal AI/AGI,Microsoft Research,United States
+Horizontal AI/AGI,Replicate,United States
+Horizontal AI/AGI,AI Foundation,United States
+Horizontal AI/AGI,Vector Institute,Canada
+Horizontal AI/AGI,Inflection,United States
+Horizontal AI/AGI,Midjourney,United States
+Horizontal AI/AGI,Yitu,China
+Horizontal AI/AGI,LAION Open Assistant,United States
+Horizontal AI/AGI,Conjecture,
+Horizontal AI/AGI,MILA,Canada
+Horizontal AI/AGI,Meta Research,
+Horizontal AI/AGI,CarperAI,
+Horizontal AI/AGI,CSM,United States
+Horizontal AI/AGI,4Paradigm,China
+Horizontal AI/AGI,OpenAI,United States
+Horizontal AI/AGI,Keen Technologies,United States
+Horizontal AI/AGI,Eleuther AI,
+Horizontal AI/AGI,IBM Watson,United States
+Horizontal AI/AGI,Allen Institute,United States
+Horizontal AI/AGI,Salk,United States
+Horizontal AI/AGI,Numenta,United States
+Horizontal AI/AGI,John Snow Labs,United States
+Horizontal AI/AGI,OFAI,
+Horizontal AI/AGI,AI21Labs,Israel
+AI Hardware,SambaNova,United States
+AI Hardware,Syntiant,United States
+AI Hardware,Graphcore,United Kingdom
+AI Hardware,Google TPU,United States
+AI Hardware,Blaize,United States
+AI Hardware,Cerebras,United States
+AI Hardware,Cornami,United States
+AI Hardware,Berkshire Grey,United States
+AI Hardware,Cambricon,China
+AI Hardware,Hailo,Israel
+AI Hardware,Intellifusion,China
+AI Hardware,Nvidia,United States
+AI Hardware,Groq,United States
+AI Hardware,Arm,United Kingdom
+AI Hardware,AWS Inferentia,United States
+AI Hardware,Horizon Robotics,China
+AI Hardware,Mobileye,Israel
+AI Hardware,Intel AI,United States
+AI Hardware,Speedata,Israel
+AI Hardware,Tenstorrent,Canada
+AI Hardware,Credo,United States
+GPU Cloud,Paperspace,United States
+GPU Cloud,CoreWeave,United States
+GPU Cloud,Grid.AI,
+GPU Cloud,Mosaic ML,United States
+GPU Cloud,Lambda,
+GPU Cloud,RunAI,Israel
+GPU Cloud,Exafunction,United States
+Edge AI,Hailo,Israel
+Edge AI,Omni ML ,United States
+Edge AI,Qeexo,United States
+Edge AI,Edge Impulse,United States
+Edge AI,Deeplite,Canada
+Closed Source Models,BaiduResearch Ernie 3.0,
+Closed Source Models,Google Research LaMDA,
+Closed Source Models,OpenAI ChatGPT,United States
+Closed Source Models,AI21 Labs Jurassic,Israel
+Closed Source Models,Google Research Parti,
+Closed Source Models,OpenAI GPT3,United States
+Closed Source Models,DeepMind Gato,United Kingdom
+Closed Source Models,OpenAI Glide,
+Closed Source Models,Google Bard,
+Closed Source Models,OpenAI Codex,United States
+Closed Source Models,DeepMind Gopher,United Kingdom
+Closed Source Models,Google Research PaLM,
+Closed Source Models,Meta AI Opt-175B,
+Closed Source Models,Meta AI Make-a-video,
+Closed Source Models,Midjourney,United States
+Closed Source Models,Google Research Imagen,
+Closed Source Models,OpenAI DallE 2,United States
+Closed Source Models,Nvidia Megatron-Turing,
+Closed Source Models,Deepmind Chinchilla,
+Sales,Lavender,United States
+Sales,Aviso,United States
+Sales,Conversica,United States
+Sales,Regie.ai,United States
+Sales,Headsup,United States
+Sales,Clari,United States
+Sales,Databook,United States
+Sales,Outreach,United States
+Sales,Clearbit,United States
+Sales,People.ai,United States
+Sales,Involve AI,United States
+Sales,Smartwriter.ai,Australia
+Sales,Gong,United States
+Sales,Tact.ai,United States
+Sales,Salesloft,United States
+Sales,Salesforce Einstein,United States
+Marketing,6sense,United States
+Marketing,Anyword,United States
+Marketing,NextRoll,United States
+Marketing,Bluecore,United States
+Marketing,DreamData,Denmark
+Marketing,Attentive,United States
+Marketing,Zeta Global,United States
+Marketing,Braze,United States
+Marketing,Copy.ai,United States
+Marketing,Invoca,United States
+Marketing,Demandbase,United States
+Marketing,Phrasee,United Kingdom
+Marketing,Active Campaign,United States
+Marketing,Writer,United States
+Marketing,Appier,Taiwan
+Marketing,Bloomreach,United States
+Marketing,Adcreative,France
+Marketing,Writesonic,United States
+Marketing,Persado,United States
+Marketing,Copysmith,United States
+Marketing,Mutiny,United States
+Marketing,Lily ai,United States
+Customer Experience,Replicant,United States
+Customer Experience,Afiniti,Bermuda
+Customer Experience,Netomi,United States
+Customer Experience,Frame.ai,United States
+Customer Experience,Poly.ai,United Kingdom
+Customer Experience,Moengage,United States
+Customer Experience,Uniphore,United States
+Customer Experience,Watson Assistant,United States
+Customer Experience,Moveworks,United States
+Customer Experience,Intercom,United States
+Customer Experience,Asapp,United States
+Customer Experience,Kore.ai,United States
+Customer Experience,AWS Amazon Lex,United States
+Customer Experience,Cresta,United States
+Customer Experience,Typewise,Switzerland
+Customer Experience,Dialogflow,
+Customer Experience,Observe.ai,United States
+Customer Experience,Drift,United States
+Customer Experience,Forethought,United States
+Customer Experience,CallMiner,United States
+Customer Experience,Ada,Canada
+Customer Experience,Yellow.ai,United States
+Customer Experience,Liveperson,United States
+Customer Experience,Sprinklr,United States
+Human Capital,eightfold.ai,United States
+Human Capital,Beamery,United Kingdom
+Human Capital,PandoLogic,United States
+Human Capital,Textio,United States
+Human Capital,Fetcher,United States
+Human Capital,Visier,Canada
+Human Capital,Lattice,United States
+Human Capital,StepStone,Germany
+Human Capital,The Predictive Index,United States
+Human Capital,Turing,United States
+Human Capital,Entelo,United States
+Human Capital,Harver,United States
+Human Capital,HireVue,United States
+Human Capital,Gloat,United States
+Automation  Operations,JIFFY.ai,United States
+Automation  Operations,Levity AI,
+Automation  Operations,Abbyy,United States
+Automation  Operations,Workato,United States
+Automation  Operations,Antworks,Singapore
+Automation  Operations,Rossum,Czech Republic
+Automation  Operations,Bardeen.ai,United States
+Automation  Operations,Ocrolus,United States
+Automation  Operations,Eigen Technologies,United Kingdom
+Automation  Operations,HyperScience,United States
+Automation  Operations,Alkymi,United States
+Automation  Operations,Instabase,United States
+Automation  Operations,Tonkean,United States
+Automation  Operations,Celonis,Germany
+Automation  Operations,AirSlate,United States
+Automation  Operations,Zapier,United States
+Automation  Operations,UiPath,United States
+Decision  Optimization,Aera Technology,United States
+Decision  Optimization,Buynomics,Germany
+Decision  Optimization,NextMV,United States
+Decision  Optimization,Paretos,Germany
+Decision  Optimization,Peak AI,United Kingdom
+Decision  Optimization,Arena,United States
+Legal,Casetext,United States
+Legal,Disco,United States
+Legal,TermScout,United States
+Legal,DoNotPay,United States
+Legal,Spellbook,
+Legal,Linksquares,United States
+Legal,Reveal Data,United States
+Legal,Relativity,United States
+Legal,Luminance,United Kingdom
+Legal,ContractPodAI,United Kingdom
+Legal,icertis,United States
+Legal,Ironclad,United States
+Legal,Everlaw,United States
+Partnerships,Partnerstack,Canada
+Partnerships,Reveal,France
+Partnerships,Habu,United States
+Partnerships,Partnertap,United States
+Partnerships,Workspan,United States
+Partnerships,crossbeam,United States
+Partnerships,Infosum,United Kingdom
+Partnerships,Vendia,United States
+Regtech  Compliance,MinervaAI,Canada
+Regtech  Compliance,BigID,United States
+Regtech  Compliance,Forter,United States
+Regtech  Compliance,Comply Advantage,United Kingdom
+Regtech  Compliance,Hummingbird,United States
+Regtech  Compliance,Compliance AI,United States
+Regtech  Compliance,Drata,United States
+Finance,Highradius,United States
+Finance,Anaplan,United States
+Finance,Planful,United States
+Finance,oracle Netsuite,United States
+Finance,Appzen,United States
+Finance,Pilot,United States
+Finance,Cube,United States
+Finance,Digits,United States
+Finance,Botkeeper,United States
+Finance,Zuora,United States
+Finance,Datarails,Israel
+Finance,Pigment,France
+Finance,Vena,Canada
+Finance,SAP S/4 HANA,Germany
+Code  Documentation,Machinet,United States
+Code  Documentation,Diffblue,United Kingdom
+Code  Documentation,Mutable.ai,United States
+Code  Documentation,Mintlify,United States
+Code  Documentation,AWS CodeWhisperer,United States
+Code  Documentation,AI2sql,United States
+Code  Documentation,Tabnine,Israel
+Code  Documentation,Moderne,United States
+Code  Documentation,Durable,Canada
+Code  Documentation,Warp,United States
+Code  Documentation,Stenography,
+Code  Documentation,DeepMind AlphaCode,United Kingdom
+Code  Documentation,Debuild,United States
+Code  Documentation,Replit,United States
+Code  Documentation,Blackbox,United States
+Code  Documentation,Anima,United States
+Code  Documentation,Salesforce CodeGen,
+Code  Documentation,Magic,United States
+Code  Documentation,GitHub Copilot,United States
+Text,Jasper,United States
+Text,Fable,
+Text,Craftly AI,Canada
+Text,NovelAI,United States
+Text,Subtxt,
+Text,Summari,
+Text,Cogram,United States
+Text,Moonbeam,
+Text,Laika,Denmark
+Text,HyperWrite,United States
+Text,Sudowrite,United States
+Text,Compose.ai,United States
+Text,OneAI,Israel
+Text,Wordtune,
+Audio  Voice,Wellsaid,United States
+Audio  Voice,Aiva,France
+Audio  Voice,Voicemod,Spain
+Audio  Voice,Supertone,South Korea
+Audio  Voice,Replica Studios,Australia
+Audio  Voice,Endel,Germany
+Audio  Voice,Krisp,United States
+Audio  Voice,Vocalid,United States
+Audio  Voice,Modulate,United States
+Audio  Voice,Aimi,United States
+Audio  Voice,Play.ht,India
+Audio  Voice,Resemble.ai,United States
+Audio  Voice,Murf.ai,United States
+Audio  Voice,Neosapience,South Korea
+Audio  Voice,Descript,United States
+Audio  Voice,Aflorithmic,United Kingdom
+Audio  Voice,Boomy,United States
+Audio  Voice,Coqui,Germany
+Audio  Voice,Podcast.ai,
+Image,Facet,United States
+Image,imagen,
+Image,Mage.space,United States
+Image,Hypotenuse AI,Singapore
+Image,Nyx.gallery,United States
+Image,Krea,Sweden
+Image,PhotoRoom,France
+Image,Artbreeder,
+Image,Craiyon,United States
+Image,Playground,United States
+Image,PixelVibe,
+Image,Lets Enhance.io,United States
+Image,Blend,India
+Image,Waifu Labs,
+Image,Stability.ai,United Kingdom
+Image,Windsor,United States
+Image,Lexica,United States
+Image,Prisma Labs,
+Image,Topaz Labs,United States
+Image,Alpaca,United States
+Image,Midjourney,United States
+Video Editing,Descript,United States
+Video Editing,Runway,United States
+Video Generation,D-ID,Israel
+Video Generation,Wombo.ai,Canada
+Video Generation,Metaphysic,United Kingdom
+Video Generation,Typecast,
+Video Generation,Colossyan,Germany
+Video Generation,Hour One,Israel
+Video Generation,Yepic.ai,United Kingdom
+Video Generation,Pictory,United States
+Video Generation,Soul Machines,United States
+Video Generation,Deepbrain AI,South Korea
+Video Generation,Rephrase.ai,India
+Video Generation,EmbodyMe,Japan
+Video Generation,Vidyo.ai,
+Video Generation,Reface,
+Video Generation,Movio,United States
+Video Generation,Tavus,United States
+Video Generation,Synthesia,United Kingdom
+Video Generation,Fliki,United States
+Animation  3D,Didimo,Portugal
+Animation  3D,Inworld,United States
+Animation  3D,Avataar,India
+Animation  3D,CSM,United States
+Animation  3D,Luma.ai,United States
+Animation  3D,Hypothetic,United States
+Animation  3D,DataGrid,Japan
+Animation  3D,Mirage,United States
+Animation  3D,Kaedim,United Kingdom
+Animation  3D,Anything World,United Kingdom
+Search,Genei,United Kingdom
+Search,You,United States
+Search,Metaphor,United States
+Search,Perplexity,United States
+Search,Neeva,United States
+Search,Mem,United States
+Search,Deepsearch Labs,
+Finance  Insurance,Planck,United States
+Finance  Insurance,Tractable,United Kingdom
+Finance  Insurance,Guidewire,United States
+Finance  Insurance,Friss,Netherlands
+Finance  Insurance,AlphaSense,United States
+Finance  Insurance,Enova,United States
+Finance  Insurance,Envelop Risk,United Kingdom
+Finance  Insurance,Cowbell,United States
+Finance  Insurance,Socure,United States
+Finance  Insurance,EvolutionIQ,United States
+Finance  Insurance,Kensho,United States
+Finance  Insurance,Zelros,France
+Finance  Insurance,Zest AI,United States
+Finance  Insurance,Arturo,United States
+Finance  Insurance,Shift Technology,France
+Finance  Insurance,Upstart,United States
+Finance  Insurance,Zesty.ai,United States
+Finance  Insurance,Cape Analytics,United States
+Finance  Insurance,Taktile,Germany
+Finance  Insurance,Symphony AI Sensa,United States
+Finance  Insurance,Lemonade,United States
+Healthcare,Vara,Germany
+Healthcare,Pager,United States
+Healthcare,Akasa,United States
+Healthcare,Rad AI,United States
+Healthcare,AiCure,United States
+Healthcare,Regard,United States
+Healthcare,Deepscribe,United States
+Healthcare,Olive,United States
+Healthcare,LeanTaas,United States
+Healthcare,Populi,United States
+Healthcare,Briya,Israel
+Healthcare,Clarify,United States
+Healthcare,Science IO,United States
+Healthcare,Human DX,United States
+Healthcare,Imagen,United States
+Healthcare,Syllable.ai,United States
+Healthcare,Sonio,France
+Healthcare,Flatiron,United States
+Healthcare,Abacus Insights,United States
+Healthcare,Nabla,France
+Healthcare,Human Longevity,United States
+Healthcare,Viz.ai,United States
+Healthcare,Fathom,United States
+Healthcare,Abridge,United States
+Healthcare,Biofourmis,United States
+Healthcare,Anomaly,United States
+Healthcare,PathAI,United States
+Healthcare,Aidoc,Israel
+Healthcare,Arterys,United States
+Healthcare,Iterative Health,United States
+Healthcare,Quibim,Spain
+Healthcare,Spring Health,United States
+Healthcare,SigTuple,India
+Healthcare,Babylon,United Kingdom
+Healthcare,Enlitic,United States
+Healthcare,Syapse,United States
+Healthcare,Tempus,United States
+Healthcare,Caption Health,United States
+Healthcare,Innovaccer,United States
+Healthcare,Cleerly,United States
+Healthcare,Komodo Health,United States
+Healthcare,Grail,United States
+Healthcare,Ezra,United States
+Life Sciences,Insilico Medicine,Hong Kong
+Life Sciences,Verana Health,United States
+Life Sciences,Verily,United States
+Life Sciences,Freenome,United States
+Life Sciences,Sophia Genetics,Switzerland
+Life Sciences,DNAnexus,United States
+Life Sciences,ArsenalBio,United States
+Life Sciences,Nimbus Therapeutics,United States
+Life Sciences,BenevolentAI,United Kingdom
+Life Sciences,Deep Genomics,Canada
+Life Sciences,Moderna,United States
+Life Sciences,Schrodinger,United States
+Life Sciences,23andMe,United States
+Life Sciences,Exscientia,United Kingdom
+Life Sciences,Owkin,United States
+Life Sciences,Color,United States
+Life Sciences,Recursion,United States
+Life Sciences,Atomwise,United States
+Life Sciences,Insitro,United States
+Life Sciences,Benchling,United States
+Life Sciences,Relay Therapeutics,United States
+Life Sciences,ConcertAI,United States
+Life Sciences,Valo Health,United States
+Life Sciences,Rome Therapeutics,United States
+Life Sciences,iCarbonX,China
+Transportation,Ghost,
+Transportation,Applied Intuition,United States
+Transportation,Tesla,United States
+Transportation,Motional,United States
+Transportation,Magna,Canada
+Transportation,G7,China
+Transportation,DiDi,
+Transportation,Momenta,China
+Transportation,Cruise,United States
+Transportation,Aptive,United Kingdom
+Transportation,Nexar,Israel
+Transportation,Nvidia,United States
+Transportation,Waymo,United States
+Transportation,Pony.ai,United States
+Transportation,Wayve,United Kingdom
+Transportation,Uber,United States
+Transportation,Lumniar,United States
+Transportation,Cambridge Mobile Telematics,United States
+Transportation,Mobileye,Israel
+Transportation,MayMobility,United States
+Transportation,Merlin Labs,
+Transportation,Kodiak Robotics,United States
+Transportation,Nuro,United States
+Transportation,Nio,China
+Transportation,Via,United States
+Agriculture,Semios,Canada
+Agriculture,Taranis,Israel
+Agriculture,Farmers Business Network,United States
+Agriculture,John Deere,United States
+Agriculture,Regrow,United States
+Agriculture,Bowery Farming,United States
+Agriculture,BensonHill,United States
+Agriculture,Blue River Technology,United States
+Agriculture,Iron Ox,United States
+Agriculture,FarmWise,United States
+Industrial  Logistics,Cognite,Norway
+Industrial  Logistics,Uptake,Canada
+Industrial  Logistics,Schneider Electric,France
+Industrial  Logistics,Locus Robotics,United States
+Industrial  Logistics,Crisp,United States
+Industrial  Logistics,Boston Dynamics,United States
+Industrial  Logistics,Siemens,Germany
+Industrial  Logistics,CloudMinds,China
+Industrial  Logistics,Deepomatic,France
+Industrial  Logistics,Verkada,United States
+Industrial  Logistics,Bright Machines,United States
+Industrial  Logistics,Geek+,China
+Industrial  Logistics,AMP Robotics,United States
+Industrial  Logistics,Outrider AI,United States
+Industrial  Logistics,Path Robotics,United States
+Industrial  Logistics,Agile Robots,Germany
+Industrial  Logistics,Stem,United States
+Industrial  Logistics,Osaro,United States
+Industrial  Logistics,Skydio,United States
+Industrial  Logistics,Built Robotics,United States
+Industrial  Logistics,Scortex,France
+Industrial  Logistics,Augury,United States
+Industrial  Logistics,Beyond limits,United States
+Industrial  Logistics,Johnson Controls,United States
+Industrial  Logistics,Instrumental,United States
+Industrial  Logistics,GE Digital Predix,United States
+Gov't  Intelligence,Streetlight Data,United States
+Gov't  Intelligence,Epirus,United States
+Gov't  Intelligence,Dataminr,United States
+Gov't  Intelligence,Shield AI,United States
+Gov't  Intelligence,Merlin Labs,
+Gov't  Intelligence,Voyager Labs,United States
+Gov't  Intelligence,Mark43,United States
+Gov't  Intelligence,Rebellion,United States
+Gov't  Intelligence,Anduril,United States
+Gov't  Intelligence,Opengov,United States
+Gov't  Intelligence,FiscalNote,United States
+Gov't  Intelligence,Primer,United States
+Gov't  Intelligence,Hayden,United States
+Cross-Industry,Palantir,United States
+Cross-Industry,Spark Cognition,United States
+Cross-Industry,Veritone,United States
+Cross-Industry,C3 AI,United States
+Frameworks,Red Hat Cluster Suite,
+Frameworks,Mesos,
+Frameworks,Hadoop HDFS,
+Frameworks,Apache Giraph,
+Frameworks,Helix,
+Frameworks,Apache Spark,
+Frameworks,Cdap,
+Frameworks,Kubernetes,
+Frameworks,Linux High Availability,
+Frameworks,Ray,
+Frameworks,Docker,
+Frameworks,Flink,
+Frameworks,Dask,
+Frameworks,Yarn,
+Frameworks,Hadoop Map Reduce,
+Format,Apache Arrow,
+Format,Parquet,
+Format,Iceberg,
+Format,Orc,
+Format,Hudi,
+Format,Delta Lake,
+Query/Dataflow,Apache Beam,
+Query/Dataflow,Presto,
+Query/Dataflow,Spark SQL,
+Query/Dataflow,Hive,
+Query/Dataflow,GraphQL,
+Query/Dataflow,Apache Drill,
+Query/Dataflow,Apache Pig,
+Query/Dataflow,Hawq,
+Query/Dataflow,Trino,
+Data Access,Ckan,
+Data Access,DataHub,
+Data Access,Magda,
+Data Access,Amundsen,
+Databases,Flume,
+Databases,InfluxDB,
+Databases,EdgeDB,
+Databases,Milvus,
+Databases,Redis,
+Databases,Riak,
+Databases,Cockroach Labs,
+Databases,MariaDB,
+Databases,SciDB,
+Databases,KsqlDB,
+Databases,MySQL,
+Databases,PostgreSQL,
+Databases,Accumulo,
+Databases,OpenTSDB,
+Databases,CouchDB,
+Databases,Apache Cassandra,
+Databases,MongoDB,
+Databases,Apache HBase,
+OLAP,ClickHouse,
+OLAP,Hydra,
+OLAP,Druid,
+OLAP,Doris,
+OLAP,Apache Kylin,
+OLAP,Pinot,
+OLAP,DuckDB,
+Open Source - Orchestration,Luigi,
+Open Source - Orchestration,Dagster,
+Open Source - Orchestration,Mage,
+Open Source - Orchestration,Flyte,
+Open Source - Orchestration,Apache Airflow,
+Open Source - Orchestration,Argo,
+Open Source - Orchestration,Metaflow,
+Open Source - Orchestration,Prefect,
+Open Source - Orchestration,Kestra,
+Infrastructure,Apache Zookeeper,
+Infrastructure,Apache Mesos,
+Infrastructure,Apache Ambari,
+Data Ops,Marquez,
+Data Ops,LakeFS,
+Data Ops,OpenLineage,
+Data Ops,Project Nessie,
+Data Ops,Great Expectations,
+Streaming  Messaging,Gazette,
+Streaming  Messaging,Pulsar,
+Streaming  Messaging,Apache RocketMQ,
+Streaming  Messaging,Debezium,
+Streaming  Messaging,Kafka,
+Streaming  Messaging,Spark Streaming,
+Streaming  Messaging,Estuary Flow,
+Streaming  Messaging,Memphis,
+Streaming  Messaging,RabbitMQ,
+Streaming  Messaging,Flink,
+Streaming  Messaging,Samza,
+Streaming  Messaging,Storm,
+Streaming  Messaging,Apache Beam,
+Streaming  Messaging,Nifi,
+Streaming  Messaging,Bytewax,
+Stat Tools  Languages,Pandas,
+Stat Tools  Languages,Scala,
+Stat Tools  Languages,Datatable,
+Stat Tools  Languages,Tidyverse,
+Stat Tools  Languages,NumPy,
+Stat Tools  Languages,R Studio,
+Stat Tools  Languages,Julia,
+Stat Tools  Languages,Python,
+Stat Tools  Languages,Pyro,
+Stat Tools  Languages,R,
+Stat Tools  Languages,Stan,
+Stat Tools  Languages,SciPy,
+Stat Tools  Languages,GNU Octave,
+MLOps  AI Infra,Polyaxon,
+MLOps  AI Infra,Langchain,
+MLOps  AI Infra,Snorkel,
+MLOps  AI Infra,Pachyderm,
+MLOps  AI Infra,BentoML,
+MLOps  AI Infra,MediaPipe,
+MLOps  AI Infra,MLFlow,
+MLOps  AI Infra,mLeap,
+MLOps  AI Infra,KubeFlow,
+MLOps  AI Infra,Deepchecks,
+MLOps  AI Infra,DVC,
+MLOps  AI Infra,Seldon,
+AI Frameworks  Libraries,apache Singa,
+AI Frameworks  Libraries,Kedro,
+AI Frameworks  Libraries,Fast.ai,
+AI Frameworks  Libraries,Scikit-learn,
+AI Frameworks  Libraries,PyTorch,
+AI Frameworks  Libraries,CoreNLP,
+AI Frameworks  Libraries,OpenCV,
+AI Frameworks  Libraries,PyTorch Lightning,
+AI Frameworks  Libraries,dmlc XGBoost,
+AI Frameworks  Libraries,Mxnet,
+AI Frameworks  Libraries,ONNX,
+AI Frameworks  Libraries,PaddlePaddle,
+AI Frameworks  Libraries,MLLib,
+AI Frameworks  Libraries,H2O.ai,
+AI Frameworks  Libraries,PostgresML,
+AI Frameworks  Libraries,TensorFlow,
+AI Frameworks  Libraries,Chainer,
+AI Frameworks  Libraries,Keras,
+AI Frameworks  Libraries,Horovod,
+AI Frameworks  Libraries,Ludwig,
+AI Models  Architectures,Stable Diffusion,
+AI Models  Architectures,Bloom,
+AI Models  Architectures,XLNet,
+AI Models  Architectures,OpenAI Clip,
+AI Models  Architectures,Google Research Dremix,
+AI Models  Architectures,Meta AI OPT-66B,
+AI Models  Architectures,DeepMind AlphaFold,
+AI Models  Architectures,OpenAI GPT2,
+AI Models  Architectures,EleutherAI GPT-J-6B,
+AI Models  Architectures,Meta AI ESM,
+AI Models  Architectures,Google Research Bert,
+AI Models  Architectures,Google AI Flan-T5,
+AI Models  Architectures,Google Research T5,
+AI Models  Architectures,Google Research Transformer,
+AI Models  Architectures,DistilBERT,
+AI Models  Architectures,RoBERTa,
+AI Models  Architectures,Meta AI BlenderBot,
+AI Models  Architectures,Meta AI Diplomacy Cicero,
+AI Models  Architectures,Riffusion,
+AI Models  Architectures,EleutherAI GPT-Neo-2.7B,
+AI Models  Architectures,Nvidia Megatron,
+Open Source Infra - Search,Sonic,
+Open Source Infra - Search,Meilisearch,
+Open Source Infra - Search,Solr,
+Open Source Infra - Search,Lucene,
+Open Source Infra - Search,Toshi Search,
+Open Source Infra - Search,Tantivy,
+Logging  Monitoring,Logstash,
+Logging  Monitoring,Vector,
+Logging  Monitoring,OpenTelemetry,
+Logging  Monitoring,Grafana,
+Logging  Monitoring,Kibana,
+Logging  Monitoring,Elastic,
+Logging  Monitoring,Sentry,
+Logging  Monitoring,Fluentd,
+Logging  Monitoring,Fluentbit,
+Logging  Monitoring,Prometheus,
+Open Source Infra - Visualizations,redash,
+Open Source Infra - Visualizations,Seaborn,
+Open Source Infra - Visualizations,Bokeh,
+Open Source Infra - Visualizations,ggplot2,
+Open Source Infra - Visualizations,TensorBoard,
+Open Source Infra - Visualizations,Matplotlib,
+Open Source Infra - Visualizations,Superset,
+Open Source Infra - Visualizations,D3,
+Collaboration,Zeppelin,
+Collaboration,BeakerX,
+Collaboration,Jupyter,
+Data Marketplaces  Discovery,Dawex,France
+Data Marketplaces  Discovery,Snowflake Data Exchange,
+Data Marketplaces  Discovery,Datarade,Germany
+Data Marketplaces  Discovery,IBM Asset eXchange,
+Data Marketplaces  Discovery,Explorium,United States
+Data Marketplaces  Discovery,Eagle Alpha,Ireland
+Data Marketplaces  Discovery,Google Dataset Search ,
+Data Marketplaces  Discovery,Nomad Data,United States
+Data Marketplaces  Discovery,AWS Data Exchange,United States
+Data Marketplaces  Discovery,Narrative,United States
+Financial  Market Data,Refinitiv,United Kingdom
+Financial  Market Data,Canoe,
+Financial  Market Data,Enigma,United States
+Financial  Market Data,Tink,Sweden
+Financial  Market Data,Coinmetrics,United States
+Financial  Market Data,Bloomberg,United States
+Financial  Market Data,Nasdaq Data Link,United States
+Financial  Market Data,Factset,United States
+Financial  Market Data,Intrinio,United States
+Financial  Market Data,Thomson Reuters,Canada
+Financial  Market Data,The World Bank,United States
+Financial  Market Data,SP Global Market Intelligence,United States
+Financial  Market Data,Plaid,United States
+Financial  Market Data,dv01,United States
+Financial  Market Data,xignite,United States
+Financial  Market Data,CB Insights,United States
+Financial  Market Data,International Monetary Fund,United States
+Financial  Market Data,SmartNews,Japan
+Financial  Market Data,Truelayer,United Kingdom
+Financial  Market Data,Kaiko,France
+Financial  Market Data,Dow Jones,United States
+Financial  Market Data,StockTwits,United States
+Financial  Market Data,MX,United States
+Financial  Market Data,DataBento,United States
+Financial  Market Data,Signal AI,United Kingdom
+Financial  Market Data,Earnest Analytics,United States
+Financial  Market Data,SEC EDGAR,United States
+Air/Space/Sea,MarineTraffic,United Kingdom
+Air/Space/Sea,Loft Orbital,United States
+Air/Space/Sea,RS Metrics,United States
+Air/Space/Sea,Preligens,France
+Air/Space/Sea,Spire,United States
+Air/Space/Sea,Eagleview,United States
+Air/Space/Sea,Synspective,Japan
+Air/Space/Sea,Qianxun SI,China
+Air/Space/Sea,ICEYE,Finland
+Air/Space/Sea,Windward,Israel
+Air/Space/Sea,Orbital Insight,United States
+People/Entities,People Data Labs,United States
+People/Entities,Zoominfo,United States
+People/Entities,Experian,
+People/Entities,Brandwatch,United Kingdom
+People/Entities,Zignal Labs,United States
+People/Entities,Epsilon,United States
+People/Entities,Dun  bradstreet,United States
+People/Entities,Quantcast,United States
+People/Entities,Cognism,United Kingdom
+People/Entities,Klue,Canada
+People/Entities,Acxiom,United States
+People/Entities,Melissa,United States
+Location Intelligence,PlaceIQ,United States
+Location Intelligence,Cuebiq,United States
+Location Intelligence,Placer.ai,United States
+Location Intelligence,OpenStreetMap,
+Location Intelligence,Unacast,United States
+Location Intelligence,CleverMaps,Czech Republic
+Location Intelligence,Sense360,United States
+Location Intelligence,Foursquare,United States
+Location Intelligence,mapbox,United States
+Location Intelligence,Safegraph,United States
+Location Intelligence,Radar,United States
+Location Intelligence,Carto,United States
+Location Intelligence,Esri,United States
+ESG,Clarity AI,Spain
+ESG,MSCI,United States
+ESG,ESG Book,United Kingdom
+ESG,Arcadia,United States
+ESG,Truvalue Labs,United States
+ESG,Sustainalytics,Canada
+ESG,Novisto,Canada
+ESG,ISS ESG,United States
+ESG,Nossa Data,United Kingdom
+ESG,RepRisk,Switzerland
+Data  AI Consulting,Azati,United States
+Data  AI Consulting,Addepto,Poland
+Data  AI Consulting,DataCaptains,
+Data  AI Consulting,FluenFactors,
+Data  AI Consulting,Captech Consulting,United States
+Data  AI Consulting,Ternary Data,
+Data  AI Consulting,Cambridge Consultants,United Kingdom
+Data  AI Consulting,Kubrick,United Kingdom
+Data  AI Consulting,itrex,United States
+Data  AI Consulting,Deeper Insights,United Kingdom
+Data  AI Consulting,DataRootLabs,
+Data  AI Consulting,ZS Associates,United States
+Data  AI Consulting,BCGX,United States
+Data  AI Consulting,Seattle Data Guy,
+Data  AI Consulting,Leit Data,
+Data  AI Consulting,EY Consulting Services,United Kingdom
+Data  AI Consulting,Tribe.ai,
+Data  AI Consulting,Slalom,United States
+Data  AI Consulting,On the Mark Data,
+Data  AI Consulting,Deloitte AI Institute,
+Data  AI Consulting,Meru,United States
+Data  AI Consulting,Analytics8,United States
+Data  AI Consulting,Deepsky Data,
+Data  AI Consulting,4Mile,United States
+Data  AI Consulting,Brooklyn Data Co,United States
+Data  AI Consulting,IBM AI Consulting,United States
+Data  AI Consulting,Bytecode IO,
+Data  AI Consulting,phData,United States
+Data  AI Consulting,LeewayHertz,United States
+Data  AI Consulting,Revolt.BI,
+Data  AI Consulting,ThirdEye,United States
+Data  AI Consulting,System 2,
+Data  AI Consulting,3Pillar Global,United States
+Data  AI Consulting,InData Labs,Belarus
+Data  AI Consulting,Upright Analytics,
+Data  AI Consulting,Big Time Data,
+Data  AI Consulting,QuantumBlack AI by McKinsey,United States
