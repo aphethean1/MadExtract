@@ -26,9 +26,10 @@ for section_element in section(data):
         for element in card_elements:
             company = element.find('./div[1]/div[2]/h2').text if element.find('./div[1]/div[2]/h2') is not None else None
             country = element.find('./div[1]/div[2]/span').text if element.find('./div[1]/div[2]/span') is not None else None
+            desc = element.find('./p').text if element.find('./p') is not None else None
             if company:
-                cards.append([category, company, country])
+                cards.append([category, company, country, desc])
 
 writer = csv.writer(sys.stdout, lineterminator=os.linesep)
-writer.writerow(['Category','Company','Country'])
+writer.writerow(['Category','Company','Country','Description'])
 writer.writerows(cards)
