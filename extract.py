@@ -3,6 +3,8 @@ import os
 import sys
 import lxml.html as lh
 from decimal import Decimal
+
+# utility to convert currency into an amount
 d = {
     'K': 3,
     'M': 6,
@@ -40,8 +42,11 @@ for section_element in sections:
             funding = funding.replace('Total Funding: ', '') if funding is not None else None
             funding_num = text_to_num(funding.replace('$','')) if funding is not None else None
             desc = element.find('./p').text_content() if element.find('./p') is not None else None
-            if company:
+            if company is not None:
                 cards.append([category, company, country, funding, funding_num, founded, desc])
+
+# strip whitespace
+cards = [[str(value).strip() if isinstance(value, str) else str(value) if value is not None else None for value in line] for line in cards]
 
 writer = csv.writer(sys.stdout, lineterminator=os.linesep)
 writer.writerow(['Category','Company','Country','Total Funding','Funding Numeric','Founded','Description'])
