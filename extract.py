@@ -34,13 +34,15 @@ for section_element in sections:
         for element in card_elements:
             company = element.find('./div[1]/div[2]/h2').text_content() if element.find('./div[1]/div[2]/h2') is not None else None
             country = element.find('./div[1]/div[2]/span').text_content() if element.find('./div[1]/div[2]/span') is not None else None
+            founded = element.find('./div[2]/span[1]').text_content() if element.find('./div[2]/span[1]') is not None else None
+            founded = founded.replace('Founding Year: ', '') if founded is not None else None
             funding = element.find('./div[2]/span[2]').text_content() if element.find('./div[2]/span[2]') is not None else None
             funding = funding.replace('Total Funding: ', '') if funding is not None else None
             funding_num = text_to_num(funding.replace('$','')) if funding is not None else None
             desc = element.find('./p').text_content() if element.find('./p') is not None else None
             if company:
-                cards.append([category, company, country, funding, funding_num, desc])
+                cards.append([category, company, country, funding, funding_num, founded, desc])
 
 writer = csv.writer(sys.stdout, lineterminator=os.linesep)
-writer.writerow(['Category','Company','Country','Total Funding','Funding Numeric','Description'])
+writer.writerow(['Category','Company','Country','Total Funding','Funding Numeric','Founded','Description'])
 writer.writerows(cards)
